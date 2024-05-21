@@ -1,15 +1,11 @@
 # Project Title
 
-## Description
+### Exercice
 
-This is a React project created with Vite.
-
-## Getting Started
-
-### Dependencies
-
-- React
-- Vite
+- Follow the instructions below and run the app
+- Open src/App.tsx
+- Create the `handleClick` function that will parse each square of divs and fill it with a red color.
+- The function must colorize square 1 by 1 (with a timeout)
 
 ### Installing
 
@@ -19,14 +15,4 @@ This is a React project created with Vite.
 
 ### Executing program
 
-- Open your browser and navigate to <http://localhost:5000>
-- You should see a 16x16 grid of divs and a button 'click me'
-
-### Exercice
-
-- Create a function that will parse each square of divs and fill it with a red color.
-- The function must call itself until the whole square are colored
-- The function must colorize square 1 by 1
-
-- [Vite documentation](https://vitejs.dev/guide/)
-- [React documentation](https://reactjs.org/docs/getting-started.html)
+- Open your browser and navigate to [http://localhost:5173](http://localhost:5173)

@@ -6,7 +6,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   const handleClick = () => {
-    // Logic here
+    // logic here
   };
   return (
     <>
